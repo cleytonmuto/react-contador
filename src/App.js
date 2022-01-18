@@ -50,7 +50,7 @@ export default function App() {
           </div>
         </div>
         <div>
-          <h3>Add / substract custom quantity</h3>
+          <h3>Add / subtract custom quantity</h3>
           <div className={"flex row vertical-align horizontal-align"}>
             <input
               type="text"
